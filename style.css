@@ -74,16 +74,16 @@ section {
 
 
 
-header{
-      background: url(/backgornd\ hero.jpeg);
+header {
+      background: url('backgornd hero.jpeg');
       height: 100vh;
       background-position: center center;
       background-size: cover;
       background-repeat: no-repeat;
       position: relative;
       letter-spacing: 5px;
-
 }
+  
 .header-opacity{
       background-color:#3C3D37;
       width: 100%;
@@ -131,4 +131,3 @@ a{
      position: absolute;
      bottom: 220px;
 }
-
